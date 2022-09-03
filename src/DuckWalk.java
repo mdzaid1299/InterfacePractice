@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public interface DuckWalk {
+public interface DuckWalk extends Walk{
 }

@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface MasterInterface {
+public interface MasterInterface extends Walk, DuckWalk {
+
 }

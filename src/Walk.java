@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface walk {
+public interface Walk {
+    static int am = 2;
+
+    public void woke() ;
 }
